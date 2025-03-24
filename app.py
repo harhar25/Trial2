@@ -1,1 +1,1 @@
-print("Hello ALM-Development Mode")
+print("Hello ALM-test Mode")
